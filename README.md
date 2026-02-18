@@ -297,3 +297,5 @@ This project is open source and intended for educational and therapeutic use.
 - Designed with the needs of the autism community in mind.  
 - Inspired by ASD therapy professionals and accessible, engaging sensory tools.  
 
+#   I n t e r a c t i v e - D a s h b o a r d - f o r - A S D  
+ 
